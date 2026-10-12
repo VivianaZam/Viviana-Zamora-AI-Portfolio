@@ -22,6 +22,7 @@ I am a Bachelor's student in Artificial Intelligence at Houston Community Colleg
 ### Machine Learning and Collaborative Projects
 - Participated in Neural Crew team projects involving machine learning, exploratory data analysis, and collaborative development.
 - Used GitHub repositories to organize project files and contributions.
+- [Machine Learning Workflow and Types of Learning](https://github.com/VivianaZam/L03-Neural-Crew/blob/main/Module_03_Lab_Exercise%20%28viviana%29.ipynb) — A Python and Scikit-learn notebook exploring supervised, unsupervised, and reinforcement learning, dataset analysis, and classification concepts.
 
 ## Portfolio Development
 This portfolio brings together completed coursework and projects. Additional project notebooks, documentation, and visual results will be organized here as they are reviewed.
