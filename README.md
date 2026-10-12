@@ -1,2 +1,32 @@
-# Viviana-Zamora-AI-Portfolio
-Applied Artificial Intelligence Portfolio | Houston Community College | Python, Machine Learning, Computer Vision, and AI Cybersecurity
+# Viviana Zamora | Applied AI Portfolio
+
+## About Me
+I am a Bachelor's student in Artificial Intelligence at Houston Community College, developing practical skills in machine learning, computer vision, Python programming, and AI cybersecurity. My coursework focuses on applying AI technologies to real-world problems, with an interest in building useful, responsible, and accessible solutions.
+
+## Technical Skills
+- Python programming and Jupyter Notebooks
+- Machine learning fundamentals and data analysis
+- Computer vision and object detection
+- AI cybersecurity and LLM security concepts
+- GitHub, collaborative development, and project documentation
+
+## Featured Courses and Projects
+
+### Computer Vision | ITAI 1378
+- [Construction Safety Detector](https://github.com/VivianaZam/construction_safety_detector) — A computer vision project exploring the detection of safety helmets and high-visibility vests in construction environments.
+
+### AI Cybersecurity | ITAI 1372
+- Studied security risks affecting AI applications, including the OWASP Top 10 for LLM Applications.
+- Completed cybersecurity exercises and explored AI system vulnerabilities.
+
+### Machine Learning and Collaborative Projects
+- Participated in Neural Crew team projects involving machine learning, exploratory data analysis, and collaborative development.
+- Used GitHub repositories to organize project files and contributions.
+
+## Portfolio Development
+This portfolio brings together completed coursework and projects. Additional project notebooks, documentation, and visual results will be organized here as they are reviewed.
+
+## Contact
+- GitHub: https://github.com/VivianaZam
+- Professional email: To be added
+- LinkedIn: To be added
