@@ -14,6 +14,7 @@ I am a Bachelor's student in Artificial Intelligence at Houston Community Colleg
 
 ### Computer Vision | ITAI 1378
 - [Construction Safety Detector](https://github.com/VivianaZam/construction_safety_detector) — A computer vision project exploring the detection of safety helmets and high-visibility vests in construction environments.
+- [Digital Image Processing and Computer Vision](https://github.com/VivianaZam/NeuralCrew_L02_ML_Development_Tools/blob/main/L02_Zamora_Viviana_ITAI1378.ipynb) — A Python and OpenCV project exploring image matrices, RGB channels, grayscale conversion, brightness and contrast adjustments, edge detection, and geometric image transformations.
 
 ### AI Cybersecurity | ITAI 1372
 - Studied security risks affecting AI applications, including the OWASP Top 10 for LLM Applications.
